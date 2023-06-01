@@ -1,0 +1,5 @@
+[*.]accounts.google.com/
+[*.]github.com/
+[*.]yandex.com/
+[*.]live.com/
+[*.]outlook.com/
